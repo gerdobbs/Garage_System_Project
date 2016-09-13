@@ -1,0 +1,40 @@
+/*Created by Ger Dobbs
+	Student Number: C00196843
+	Date: March 2016
+	Project: Garage
+	Purpose: To style the payments and letter screen
+*/
+/*Change styling of class "Main" for the letter*/
+.main{
+	color:black;
+	background-color:#f2f2f2;
+	font-size:90%;
+	font-family: "Times New Roman", Times, serif;
+	opacity:1;
+}
+/*List used should not have bullet points*/
+li{
+	list-style-type:none;
+	}
+#letter{
+	font-size:80%;
+}
+/*Position the garage details*/
+#headers{
+	position:absolute;
+	right:10px;
+	display:inline-block:
+}
+/*Position the supplier details*/
+#SupplierName{
+	
+	display:inline-block:
+	float:left;
+	clear:both:
+}
+#signature{
+	position:absolute;
+	width:120px;
+	height:100px;
+	left:47%;
+	margin:auto;

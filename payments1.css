@@ -1,0 +1,24 @@
+/*Created by Ger Dobbs
+	Student Number: C00196843
+	Date: March 2016
+	Project: Garage
+	Purpose: To style the payments and letter screen
+*/
+/*Underline the titles on the screen*/
+.label{
+	text-decoration: underline;
+}
+.label2{
+	position:relative;
+	left:40px;
+}
+/*Position the Amend button*/
+.amend{
+	position:relative;
+	float:right;
+	right:50px;
+}
+/*List used should not have bullet points*/
+.lists{
+	list-style-type:none;
+}
